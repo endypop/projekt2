@@ -1,2 +1,14 @@
 # to jest komentarz
 /output/
+
+#pliki i katalogi niezależne od położenia
+*.bak
+
+#ignoruje katalogi we wszystkich podkatalogach
+__pychache__/
+
+
+#ignorowanie plików i katalogów pasujących do wzorca
+*.class
+*.o
+*.bin
