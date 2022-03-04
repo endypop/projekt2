@@ -6,3 +6,5 @@ czwartek
 pi¹tek, weekendu pocz¹tek
 sobota
 niedziela
+
+styczeñ
